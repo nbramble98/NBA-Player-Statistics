@@ -5,4 +5,5 @@ The name of the program we created is called 'NBA-Player-Statistics', and uses s
 
 The data for the code can be found in a file within the repository called 'NBA players data final project.xlsx', or can be accessed at https://www.basketball-reference.com/leagues/NBA_2018_per_game.html
 
+-- Team 10
 -- James Nicol, Nick Bramble, Archa Patel, Edison Chen
